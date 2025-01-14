@@ -2,7 +2,7 @@
 This is a simple movie website built with HTML, CSS, and JavaScript.
 
 <h2>Installation</h2>
- Open the  <link rel="stylesheet" href="./index.html" /> file in your browser to see the website in action.
+ Open the ![](./index.html) file in your browser to see the website in action.
 
 <h2>Features</h2>
 Sensitive: Responsive Design: A compatible experience on various device screens (mobile, tablet, desktop).
@@ -18,4 +18,4 @@ CSS3
 JavaScript
 
 <h2>Preview</h2>
-![](prewiew.gif)
+![](preview.gif)
