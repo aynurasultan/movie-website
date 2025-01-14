@@ -18,4 +18,4 @@ CSS3
 JavaScript
 
 <h2>Preview</h2>
-![](preview.gif)
+![](./Preview.gif)
