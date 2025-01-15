@@ -16,4 +16,6 @@ JavaScript
 
 <h2>Preview</h2>
 
-![](Preview.gif)
+![][def]
+
+[def]: movie.gif
